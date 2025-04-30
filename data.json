@@ -13502,5 +13502,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247572572&idx=1&sn=0239c40ea95efb55cdb8bffe01622d8e": "某开源cms 0day挖掘",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319938&idx=3&sn=f63f4cdc869cd38d47b8a177ac3ee6f6": "主流AI系统或存在越狱、代码及数据安全漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507755&idx=1&sn=80f46c6c023de56c5d31193cb4e64819&subscene=0": "漏洞通告 | SAP NetWeaver Visual Composer Development Server 远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503201&idx=1&sn=51cbcde9c3c7543236c2e0da86236628": "【成功复现】XWiki Platform系统远程代码执行漏洞（CVE-2025-24893)"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503201&idx=1&sn=51cbcde9c3c7543236c2e0da86236628": "【成功复现】XWiki Platform系统远程代码执行漏洞（CVE-2025-24893)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487402&idx=1&sn=22205dce2081be628b82861bc0db884e": "CVE-2025-32433 PoC 漏洞利用发布 - Erlang∕OTP 中的严重 SSH 漏洞"
 }
