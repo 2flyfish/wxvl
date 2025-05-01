@@ -13518,5 +13518,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489271&idx=1&sn=8d47ee4c8bb63b8265049ea0dcd8ce78&subscene=0": "【漏洞通告】微软Telnet Server(MS-TNAP)身份验证绕过漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486407&idx=1&sn=2f1dd6ddef7341493176d84bd03176e3": "CraftCMS 存在前台命令执行漏洞 (CVE-2025-32432)",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069369&idx=2&sn=f7f84aa2b4e350b27918d216e6977bc6&subscene=0": "【安全圈】Apache Tomcat 漏洞可导致攻击者绕过规则并触发 DoS 条件",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489679&idx=1&sn=550fcfaa03734416bba06a439cf8a9fc": "CraftCMS 存在前台命令执行漏洞 (CVE-2025-32432)"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489679&idx=1&sn=550fcfaa03734416bba06a439cf8a9fc": "CraftCMS 存在前台命令执行漏洞 (CVE-2025-32432)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485752&idx=1&sn=d991fdc2d13d3fc422d3148704ff225a": "【情报】CVE出现罕见的10.0评分漏洞，SAP NetWeaver存在RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NDcyMjU2OQ==&mid=2247484713&idx=1&sn=c4477dd9b0ca46b1ae12b8c2c19dd399": "面临困境的漏洞管理生态系统"
 }
