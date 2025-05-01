@@ -13520,5 +13520,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069369&idx=2&sn=f7f84aa2b4e350b27918d216e6977bc6&subscene=0": "【安全圈】Apache Tomcat 漏洞可导致攻击者绕过规则并触发 DoS 条件",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489679&idx=1&sn=550fcfaa03734416bba06a439cf8a9fc": "CraftCMS 存在前台命令执行漏洞 (CVE-2025-32432)",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485752&idx=1&sn=d991fdc2d13d3fc422d3148704ff225a": "【情报】CVE出现罕见的10.0评分漏洞，SAP NetWeaver存在RCE漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0NDcyMjU2OQ==&mid=2247484713&idx=1&sn=c4477dd9b0ca46b1ae12b8c2c19dd399": "面临困境的漏洞管理生态系统"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NDcyMjU2OQ==&mid=2247484713&idx=1&sn=c4477dd9b0ca46b1ae12b8c2c19dd399": "面临困境的漏洞管理生态系统",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582213&idx=1&sn=8836a6cf09badd147c8e20d0dd545e51&subscene=0": "新的iOS关键漏洞仅用一行代码就可禁用iphone",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069387&idx=1&sn=15d70e792b5f5150cebe5632890b1182": "【安全圈】苹果隔空播放(AirPlay)协议存在可蠕虫的远程代码执行漏洞 可批量感染大量设备",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516546&idx=1&sn=8be33a9d5654ec195a0db563ba03a514": "Clash Verge rev 本地提权∕远程命令执行漏洞 POC（5月1日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520278&idx=1&sn=53bc198f82af993deb51f1c332194fff": "一文详述XSS漏洞"
 }
