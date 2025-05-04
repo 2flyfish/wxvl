@@ -13561,5 +13561,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490757&idx=4&sn=c69172ed23d7eb8304847946e0755fe3": "[靶场复现]CyberStrikeLab-Gear",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490757&idx=3&sn=eb8432565502d9be2990635c73aa02e5": "手把手教你写好一份完整的漏洞报告",
     "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484512&idx=1&sn=23682b51104b29e8288ad6f5df352494": "漏洞挖掘—隐藏资产挖掘SQL注入",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487414&idx=1&sn=c942ae99eeb6beee0350a45e2c2022dd": "Next.js CVE-2025–29927 hackinghub"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487414&idx=1&sn=c942ae99eeb6beee0350a45e2c2022dd": "Next.js CVE-2025–29927 hackinghub",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529516&idx=1&sn=eac81d1a8e4ccc214e79d33fac4035f4": "Spring Security CVE-2025-22234 引入用户名枚举向量",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520296&idx=1&sn=3ba29d58a66d78529f704be3c6d5a5ef": "SimpleHelp复现",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900492&idx=1&sn=6c2281952da1439b110f84c51a848774": "SAP NetWeaver RCE 漏洞 (CVE-2025-31324)：深度剖析、高级威胁与全方位防御策略"
 }
