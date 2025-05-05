@@ -13606,5 +13606,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484981&idx=3&sn=d8be865f9f42ec55e83975f0d6d59e66": "0day：各种CMS、平台、系统和软件漏洞的EXP和POC合集",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492770&idx=1&sn=6a6458b562a3c751fa4a82d27defd2ac": "Cisco Webex 漏洞可让黑客通过会议链接获取代码执行权限",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491307&idx=1&sn=9716bbe658600defc07b7543db2a46a1": "Commvault SSRF 致代码执行漏洞 (CVE-2025-34028)",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487356&idx=1&sn=14b0eb20b4a633044ce2718398120e8f": "SRC漏洞挖掘天花板！千万赏金大神亲授秘籍——跟随顶尖大师，成就巅峰之路！"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487356&idx=1&sn=14b0eb20b4a633044ce2718398120e8f": "SRC漏洞挖掘天花板！千万赏金大神亲授秘籍——跟随顶尖大师，成就巅峰之路！",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247635713&idx=4&sn=b672bb86a0a8808ab3b047a6b5685a80": "未修复的Windows快捷方式漏洞可导致远程代码执行，PoC已公布",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDMyOTA1OA==&mid=2247484474&idx=1&sn=be5f7017ffd8e72f9541a327e40cc65f": "【※】一个神一般的linux全架构全漏洞提权傻瓜程序"
 }
