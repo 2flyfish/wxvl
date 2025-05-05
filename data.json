@@ -13600,5 +13600,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247501714&idx=1&sn=bba783c21689e9c6fbef317b613df486": "【CTFer成长之路】反序列化漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320090&idx=1&sn=cb1b7e4d9fbfa8c98cf0c378da407981": "vLLM框架曝高危远程代码执行漏洞，威胁AI基础设施安全",
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485465&idx=2&sn=3a0a86de823f1aac1ef00fd2aa44fbc6": "从代码看任意文件上传漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069446&idx=2&sn=b093a02905ad8999ac398713a11bd267": "【安全圈】微软Telnet服务器被曝0-Click漏洞：无密码即可控制系统"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069446&idx=2&sn=b093a02905ad8999ac398713a11bd267": "【安全圈】微软Telnet服务器被曝0-Click漏洞：无密码即可控制系统",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484981&idx=2&sn=f5668b7d8fe3098326e01f0e4eb85390": "PenetrationTestingPOC：渗透测试相关工具合集",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjY1Mzc0Nw==&mid=2247488540&idx=1&sn=2654424553a85b8901765d5e2b5d1958": "【26届实习】安恒实习生招聘，安全运营、培训、服务别错过！二进制漏洞面试题挑战！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484981&idx=3&sn=d8be865f9f42ec55e83975f0d6d59e66": "0day：各种CMS、平台、系统和软件漏洞的EXP和POC合集",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492770&idx=1&sn=6a6458b562a3c751fa4a82d27defd2ac": "Cisco Webex 漏洞可让黑客通过会议链接获取代码执行权限",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491307&idx=1&sn=9716bbe658600defc07b7543db2a46a1": "Commvault SSRF 致代码执行漏洞 (CVE-2025-34028)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487356&idx=1&sn=14b0eb20b4a633044ce2718398120e8f": "SRC漏洞挖掘天花板！千万赏金大神亲授秘籍——跟随顶尖大师，成就巅峰之路！"
 }
