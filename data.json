@@ -13628,5 +13628,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512001&idx=1&sn=98b2fa4a434cd4697a9ca5724fb4b5ba": "AOSP OTA签名验证漏洞——如何绕过Android系统更新包的安全检查？",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491189&idx=1&sn=8ab999ea264a6356d7f8850f5cb51cf2": "自动化漏洞检测方案-使用AI调用BurpSuite",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247485482&idx=1&sn=eab009bdddc94441491b0654c51bc264": "域渗透入门-令牌窃取（含复现步骤）",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493040&idx=1&sn=0ea53f3c58166c3341a2f83cfc499d7c": "漏洞预警 | NetMizer日志管理系统远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493040&idx=1&sn=0ea53f3c58166c3341a2f83cfc499d7c": "漏洞预警 | NetMizer日志管理系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487424&idx=1&sn=9f2932094a9e1f69c27ea4d0498353d7": "9万个站点面临风险：Jupiter X Core RCE 漏洞（CVE-2025-0366）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484620&idx=1&sn=b6b0dd7fcabe307b78ca52064c885cb1": "JAVA代审之XSS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651247949&idx=1&sn=64818f92eb72135007f30fc07f1dd794": "关于对网络安全等级保护有关工作事项进一步说明的函原文 | 2024年至少75个零日漏洞遭滥用，网络与安全产品占比近三成",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529535&idx=2&sn=e9ab35af50364b690d8f888988ca5908": "通过@fastify∕view raw 渲染实现远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491326&idx=1&sn=1a53b44366e8e8d78ae9fd475c3d7e62": "万户 ezOFFICE selectAmountField.jsp SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489099&idx=1&sn=50e542e6718a6fdc52586b8328e81c94": "漏洞预警|畅捷CRM存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490827&idx=4&sn=42e9dc02c4b652d3a4fde7daa3bae244": "自动化漏洞检测方案-使用AI调用BurpSuite",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487016&idx=2&sn=defbecd00245fe9baacbe7fb60293a29": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491335&idx=1&sn=41fb84356629ac2796bea7209f48d305": "龙腾码支付 curl 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582234&idx=1&sn=93a0e5ec10f5fee802cea3b4a1279e89": "苹果“AirBorne”漏洞可能导致零点击 AirPlay RCE 攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490463&idx=1&sn=aa144f78fd856645a2643cfa6811abfb": "【代码审计】某JAVA酒店管理系统多个漏洞（附源码）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247488623&idx=1&sn=4cb5f4fab0682a40ba11b384b02cd308": "API漏洞挖掘指北-APISandbox靶场通关.1",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493755&idx=6&sn=85aecb939d45af53faeac6a4d3e330fd": "DragonForce黑客组织宣称对Co-op网络攻击事件负责并窃取数据"
 }
