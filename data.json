@@ -13641,5 +13641,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582234&idx=1&sn=93a0e5ec10f5fee802cea3b4a1279e89": "苹果“AirBorne”漏洞可能导致零点击 AirPlay RCE 攻击",
     "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490463&idx=1&sn=aa144f78fd856645a2643cfa6811abfb": "【代码审计】某JAVA酒店管理系统多个漏洞（附源码）",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247488623&idx=1&sn=4cb5f4fab0682a40ba11b384b02cd308": "API漏洞挖掘指北-APISandbox靶场通关.1",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493755&idx=6&sn=85aecb939d45af53faeac6a4d3e330fd": "DragonForce黑客组织宣称对Co-op网络攻击事件负责并窃取数据"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493755&idx=6&sn=85aecb939d45af53faeac6a4d3e330fd": "DragonForce黑客组织宣称对Co-op网络攻击事件负责并窃取数据",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTA0NzgyMA==&mid=2247484263&idx=1&sn=0a6168400765119305f334a310f02c78": "CVE-2017-9769 RZPNK.sys漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491344&idx=1&sn=0ed048d4c639ed8a15eb5222800fd30c": "用友NC ECFileManageServlet 反序列化RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496385&idx=1&sn=136a4278dd358937e1439af867ed8e16": "【论文速读】| 通过整体神经符号方法实现自动静态漏洞检测",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503352&idx=1&sn=283ef81dee566006f482ac1dc2eaec42": "安全热点周报：邮件远程代码执行漏洞遭利用，用于攻击日本机构",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490382&idx=1&sn=d16811990ed28de75af79d72d819dae7": "【AI风险通告】vLLM存在远程代码执行漏洞（CVE-2025-32444）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593294&idx=2&sn=902d175508a60f0517069a960b940b64": "微软 Telnet 服务器惊现 0Click 重大漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320142&idx=4&sn=ed93c0ee495ef976ddc919bd65eef508": "可蠕虫化AirPlay漏洞：公共WiFi环境下可零点击远程控制苹果设备",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593294&idx=3&sn=33defc4d7ed7b60cd6c6a3c15abab69f": "25年夏季班招生啦 | 系统0day安全-IOT设备漏洞挖掘（第6期）",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096211&idx=2&sn=439ab06d63daa827f1cb7e56be548b51": "Windows 部署服务中发现新漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484996&idx=1&sn=a7399eb56405b375b77e4fa608da1891": "data-cve-poc：此仓库收集了在GitHub上发现的所有CVE漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484996&idx=2&sn=e8a908d1b9a41a512a57643afd827d9f": "多个公共漏洞知识库集成汇总",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484996&idx=3&sn=6054fbaa4233f094dc34c3aacda32db1": "CVE-2025-21756：linux6.6.75内核自动提权",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069467&idx=4&sn=82381e377828001cba5f1b8b0cd0bdf1": "【安全圈】CVE-2025-21756：Linux 内核漏洞如何导致完全 root 权限利用，PoC 发布",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247626698&idx=2&sn=ce3504318ade61d17659729c035307ec": "Chrome浏览器惊现高危漏洞！天擎漏洞攻击防护第一时间提供安全保障",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069467&idx=3&sn=24714661691469cf4a95022a439d1f5f": "【安全圈】iOS 出现新严重漏洞，仅需一行代码即可导致 iPhone 崩溃"
 }
