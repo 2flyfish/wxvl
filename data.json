@@ -13697,5 +13697,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247549783&idx=1&sn=f28d088202fd236d66bb8917bac6df62": "出洞如此简单！一次轻松的小程序漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=Mzg5Mjg4Mjg0MQ==&mid=2247483858&idx=1&sn=0a09908d1d547dd0fd19309035313a63": "Apache OFBiz 路径遍历漏洞（CVE-2024-36104）",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582234&idx=1&sn=93a0e5ec10f5fee802cea3b4a1279e89&subscene=0": "苹果“AirBorne”漏洞可能导致零点击 AirPlay RCE 攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484683&idx=1&sn=d3e64c62aee2c73abd3a1e044b69d611": "Nacos Derby RCE代码审计"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484683&idx=1&sn=d3e64c62aee2c73abd3a1e044b69d611": "Nacos Derby RCE代码审计",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593301&idx=1&sn=28d71b01d0207906a35a3882f88828de": "使用区间分析识别智能合约中的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490387&idx=1&sn=a2bfa25172a3a206f17fa4be6e6d22e7": "【风险通告】Elastic Kibana存在原型污染致任意代码执行漏洞（CVE-2025-25014）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320263&idx=4&sn=4eaf9a69ad3ada30bd7aaca67c679eba": "Kibana原型污染漏洞可导致远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTYwMTk4Mw==&mid=2247489135&idx=1&sn=1b47ec95f6a9cfeb72702cc7e0e36c85": "若依(RuoYi)框架漏洞战争手册",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484444&idx=1&sn=85b9fad1ca755cc210ad963d5e54588f": "超越漏洞修复的安全观",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069467&idx=4&sn=82381e377828001cba5f1b8b0cd0bdf1&subscene=0": "【安全圈】CVE-2025-21756：Linux 内核漏洞如何导致完全 root 权限利用，PoC 发布",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484051&idx=1&sn=bd6349f85a85e09bf31c2c1ba728bee7": "【漏洞预警】Elastic Kibana 原型污染致任意代码执行漏洞(CVE-2025-25014)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501043&idx=2&sn=f13209a4ac885ea075fdbfedc8ce007a": "【漏洞通告】Kibana 原型污染导致任意代码执行漏洞 (CVE-2025-25014)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069486&idx=3&sn=4f5c262b7363fc3d020faaae04c66c05": "【安全圈】未经身份验证的 DoS 漏洞导致 Windows 部署服务崩溃，目前尚无补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211442&idx=1&sn=ad5cdef821d42e8678b65093911154e3": "JSONP劫持漏洞攻防指南",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4OTU4MjQ4Mg==&mid=2247488527&idx=1&sn=17cc9468f596e8a762e8c5ba38f143d6": "星图实验室协助vLLM项目修复多个高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247626707&idx=2&sn=014812173bfbd41a4f5993a72639e999": "Chrome浏览器高危漏洞已被黑客利用，奇安信可信浏览器为企业撑起“安全伞”",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDc0MTc5Mw==&mid=2247483817&idx=1&sn=35e0f3a07599d753c57e63a9773f7363": "紧急预警！微软Telnet惊现\"零点击\"核弹级漏洞，旧系统用户速查！",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489778&idx=1&sn=5c0db87691968c6087ccde01f0590d0d": "最牛工具来了！一键实现漏洞RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484821&idx=1&sn=e819acc8cde570ffdb0afe3ecb1f115d": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第18期，总第36期]"
 }
