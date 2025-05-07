@@ -13688,5 +13688,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900506&idx=1&sn=b1371143cc39f7a07b516fcb5f941faa": "AirPlay 曝“AirBorne”蠕虫级 0-Click RCE 漏洞！无需交互即可入侵 iPhone∕Mac",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795021&idx=3&sn=879212b268b99fe37554af345c9582c3": "三星MagicINFO漏洞在PoC发布几天后被利用",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593294&idx=2&sn=902d175508a60f0517069a960b940b64&subscene=0": "微软 Telnet 服务器惊现 0Click 重大漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486558&idx=1&sn=0feca183969cee706e0617dcb355632c": "漏洞扫描结果差异背后的评分标准揭秘：国内外主流体系对比"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486558&idx=1&sn=0feca183969cee706e0617dcb355632c": "漏洞扫描结果差异背后的评分标准揭秘：国内外主流体系对比",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247488046&idx=1&sn=4e3163b45b07288c088e3952bdd201ec": "被忽视的暗面：客户端应用漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498692&idx=2&sn=0baa28b11a133d27696fb48799898d9a": "Apache Parquet Java 漏洞 CVE-2025-46762 使系统暴露于远程代码执行攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610510&idx=4&sn=9d3f3190409ef7ccce68548f15cfd1cb": "基于AWVSapi实现的漏洞扫描网站",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512001&idx=1&sn=98b2fa4a434cd4697a9ca5724fb4b5ba&subscene=0": "AOSP OTA签名验证漏洞——如何绕过Android系统更新包的安全检查？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDcxNTkyMA==&mid=2247484572&idx=2&sn=1fce16454055968fb3e2f4aceba81a32": "CVE-2025-24071：通过 RAR∕ZIP 提取和 .library-ms 文件泄露 NTLM 哈希值",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247549783&idx=1&sn=f28d088202fd236d66bb8917bac6df62": "出洞如此简单！一次轻松的小程序漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5Mjg4Mjg0MQ==&mid=2247483858&idx=1&sn=0a09908d1d547dd0fd19309035313a63": "Apache OFBiz 路径遍历漏洞（CVE-2024-36104）",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582234&idx=1&sn=93a0e5ec10f5fee802cea3b4a1279e89&subscene=0": "苹果“AirBorne”漏洞可能导致零点击 AirPlay RCE 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484683&idx=1&sn=d3e64c62aee2c73abd3a1e044b69d611": "Nacos Derby RCE代码审计"
 }
