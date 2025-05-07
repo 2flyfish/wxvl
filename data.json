@@ -13726,5 +13726,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494567&idx=1&sn=052cbf0cb30bdebf35ee81f84c1b946a": "工具推荐 | MSSQL多功能集合命令执行利用工具",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=2&sn=d6e089276d9d14177da8b1d1e1d32736": "谷歌修复安卓遭活跃利用的 FreeType 0day漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497563&idx=1&sn=ceaea8297e93659498c5576678d85f50": "RCE",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488057&idx=1&sn=3f3aeb579ab406fe8f47558d666d502b": "znlinux linux全架构全漏洞提权程序"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488057&idx=1&sn=3f3aeb579ab406fe8f47558d666d502b": "znlinux linux全架构全漏洞提权程序",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485311&idx=1&sn=6cf446fe3a9deb2ffcb471aaae73cecb": "CVE-2025-2905（CVSS 9.1）：WSO2 API 管理器中发现严重 XXE 漏洞"
 }
