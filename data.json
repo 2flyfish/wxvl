@@ -13740,5 +13740,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497440&idx=1&sn=31f4a4d8d75b507676f36e255eab63c3": "【漏洞通告】Kibana原型污染导致任意代码执行漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485676&idx=1&sn=9f3355d8d47eb5ad5b9ef48c1e7d5659": "OSS漏洞检测工具",
     "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492052&idx=1&sn=e219ac550df60a2a73d39aa6f6b987b5": "《跨机房漏洞扫描挑战、设备使用人管理优化及审计账号权限分配策略解析》｜总第288周",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516589&idx=1&sn=82e60d5e426e05d401c4e79eec81d652": "漏洞扫描工具 -- ThinkPHPKiller（5月6日更新）"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516589&idx=1&sn=82e60d5e426e05d401c4e79eec81d652": "漏洞扫描工具 -- ThinkPHPKiller（5月6日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=2&sn=d6e089276d9d14177da8b1d1e1d32736&subscene=0": "谷歌修复安卓遭活跃利用的 FreeType 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490053&idx=1&sn=4f6e0b57c4d90d911ca3d4d451fd6e53": "【高危漏洞预警】Elastic Kibana需授权代码注入漏洞 (CVE-2025-25014)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=2&sn=3ff46263da891e1311e88fecaa375742": "Canary Exploit工具可检测受Apache Parquet漏洞影响的服务器",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593301&idx=1&sn=28d71b01d0207906a35a3882f88828de&subscene=0": "使用区间分析识别智能合约中的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503391&idx=1&sn=f8b5ece2bc2ee173a9f4c33b8b2e6ce6&subscene=0": "雷神众测漏洞周报2025.4.28-2025.5.5",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497563&idx=1&sn=ceaea8297e93659498c5576678d85f50&subscene=0": "RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490053&idx=2&sn=e1fa7a6beecbecd929a120e00f53677d": "【高危漏洞预警】Microsoft Azure AI Bot Service权限提升漏洞CVE-2025-30392",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491374&idx=1&sn=96d62a86f1515d0b75406b84f40953c2": "用友NC files 反序列化RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=3&sn=00dc9443028818fad58e65c958c42e65": "三星MagicINFO漏洞在概念验证利用代码公开数日后遭攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487228&idx=1&sn=4ea3e89bd548586c3a916e5ac42e0404": "支付类漏洞挖掘技巧总结",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=1&sn=9f712f2d6d7e8441f4b26a89e1b38c9c": "专家警告称，针对SAP NetWeaver漏洞CVE-2025-31324的第二波攻击正在袭来",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503359&idx=1&sn=3976329cdddd018ab4307524061b68c0&subscene=0": "Elastic Kibana 原型污染致任意代码执行漏洞(CVE-2025-25014)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=4&sn=40dd947a49deeeac2d77c26174e7aa14": "Play勒索软件团伙利用零日漏洞部署恶意程序",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484530&idx=1&sn=2d6ab693e8237d9ae98438818ba781f9": "phpIPAM跨站脚本漏洞及解决方法（CNVD-2025-06929、CVE-2024-55093）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486564&idx=1&sn=69697bc2be8941f7488755d9c6ad8bce": "警惕|Play Ransomware 利用 Windows CVE-2025-29824实施勒索攻击"
 }
