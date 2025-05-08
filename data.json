@@ -13774,5 +13774,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462844&idx=1&sn=16f905bb023c4905a56d59c04da30a11": "信息安全漏洞月报（2025年4月）",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650622394&idx=2&sn=2bcbe3b2a1581342454f2868b1634978": "CVSS10分！Craft CMS 远程代码执行漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554773&idx=2&sn=286e5211128b34b989a4a5a82838e9c8": "【免费领】大佬挖洞秘笈：全网最详尽的漏洞挖掘实战技巧大全",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489277&idx=1&sn=6c55779812dc46ead6693965106dd9ed": "【漏洞通告】Elastic Kibana原型污染致任意代码执行漏洞（CVE-2025-25014）"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489277&idx=1&sn=6c55779812dc46ead6693965106dd9ed": "【漏洞通告】Elastic Kibana原型污染致任意代码执行漏洞（CVE-2025-25014）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519291&idx=1&sn=d35441ef0017e23c68e09e72a45f1183": "浅谈edusrc，逻辑漏洞，越权，接管到getshell，如何快速找准漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492522&idx=1&sn=55381a89501a176cdc954fc4de9c67c9": "无需认证的 DoS 漏洞可致 Windows 部署服务崩溃",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069510&idx=4&sn=13e42b32cf0c000f6d63304e4a836f24": "【安全圈】SonicWall SMA 100系列发现多个漏洞紧急安全更新",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247487497&idx=1&sn=9ba99fad3e77a68a6ae4c3c91348db3d": "某OA代码审计之挖掘0day，未公开poc",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491302&idx=1&sn=58eaf1f31c356485e2e041aff9b6a138": "Rscan自动化扫描利器，指纹识别更精准，漏洞扫描更全面|漏洞探测"
 }
