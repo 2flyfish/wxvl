@@ -13727,5 +13727,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=2&sn=d6e089276d9d14177da8b1d1e1d32736": "谷歌修复安卓遭活跃利用的 FreeType 0day漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497563&idx=1&sn=ceaea8297e93659498c5576678d85f50": "RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488057&idx=1&sn=3f3aeb579ab406fe8f47558d666d502b": "znlinux linux全架构全漏洞提权程序",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485311&idx=1&sn=6cf446fe3a9deb2ffcb471aaae73cecb": "CVE-2025-2905（CVSS 9.1）：WSO2 API 管理器中发现严重 XXE 漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485311&idx=1&sn=6cf446fe3a9deb2ffcb471aaae73cecb": "CVE-2025-2905（CVSS 9.1）：WSO2 API 管理器中发现严重 XXE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493056&idx=3&sn=02acc8d19b6d3162024d3a9f48bccc1c": "漏洞预警 | 通达OA远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493056&idx=1&sn=e403ede2a981aa23d95670c6be53a975": "漏洞预警 | 汉王e脸通智慧园区管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506211&idx=1&sn=26660b6abe5fb1714974c19b983a63f0": "AI自动化代码审计RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493056&idx=2&sn=1cd36807eb2525ca7a869ed2146996c1": "漏洞预警 | 锐捷EWEB远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490243&idx=1&sn=93258dfb0f3a806e3099ede6fbbd6e43": "Milkyway【具备效的机器探活，端口探活，协议识别，指纹识别，漏洞扫描等功能的全方位扫描工具】",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487859&idx=1&sn=21830632f377e379519f4f69bf29a29b": "紧急！SysAid On-Premise曝高危漏洞，未授权攻击可接管服务器！速修复！",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487228&idx=2&sn=b9686feeabeb4a384bec87e310213972": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NjU5NDE4Mg==&mid=2247485602&idx=1&sn=f004f26af0ff476bc38a0ad5d35d5976": "EMQX命令执行后渗透",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795032&idx=2&sn=e9e09cc70275edb332e37d3341f2657f": "赛门铁克称，多个勒索软件组织利用了最近修补的 Windows 0day（CVE-2025-29824）",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497440&idx=1&sn=31f4a4d8d75b507676f36e255eab63c3": "【漏洞通告】Kibana原型污染导致任意代码执行漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485676&idx=1&sn=9f3355d8d47eb5ad5b9ef48c1e7d5659": "OSS漏洞检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492052&idx=1&sn=e219ac550df60a2a73d39aa6f6b987b5": "《跨机房漏洞扫描挑战、设备使用人管理优化及审计账号权限分配策略解析》｜总第288周",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516589&idx=1&sn=82e60d5e426e05d401c4e79eec81d652": "漏洞扫描工具 -- ThinkPHPKiller（5月6日更新）"
 }
