@@ -1,5 +1,5 @@
 #  某OA代码审计之挖掘0day，未公开poc   
-原创 private null  轩公子谈技术   2025-05-08 11:20  
+ 乌雲安全   2025-05-10 03:58  
   
 参与的众测项目，资产非常难挖掘漏洞，所以只能通过审计的方式，找找漏洞点  
   
@@ -206,4 +206,6 @@ dnslog 尝试
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/BAby4Fk1HQaHNMcUhPPqY7T6OdSeg5awcOPbvYLmfbLRpJpPRMHnjFR5LZrtxqWfiad0bnxsTolWqNVJEZLQ9Sg/640?wx_fmt=png "")  
   
    
+  
+  
   
