@@ -13966,5 +13966,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495969&idx=2&sn=09773aee69062908205a5dc12cb4e5d8&subscene=0": "上周关注度较高的产品安全漏洞(20250428-20250511)",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096228&idx=2&sn=d8e4dbd652645003ab441e031634eb89": "VMware Tools 存在允许攻击者篡改文件以触发恶意作漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038813&idx=1&sn=f6826bf0a4cb730ac784ca575f2ba577": "安卓逆向 -- 分析某库登录逻辑以及协议复现",
-    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488457&idx=1&sn=ff9daf871fef4edcfdb100b4990e66ea": "顺景ERP UploadInvtSpFile接口存在任意文件上传漏洞 附POC"
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488457&idx=1&sn=ff9daf871fef4edcfdb100b4990e66ea": "顺景ERP UploadInvtSpFile接口存在任意文件上传漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522987&idx=2&sn=3a436a07ce8ab28ad783d9d8705ed72a": "苹果修复iOS、macOS 平台上的多个严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491036&idx=2&sn=b28468700c3d8e0143e71992e09f9b46": "客户端漏洞在红蓝对抗中的挖掘与利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069614&idx=4&sn=2cdeb6fe56f376c6209155e17e0eaa4d": "【安全圈】华硕DriverHub漏洞致高危攻击：恶意网站可获取管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247486942&idx=2&sn=368c1989a347f75796a39d41037b6173": "猎洞时刻漏洞挖掘SRC培训第三期塞满干货来袭！",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486540&idx=1&sn=eb91ae30cb0ff0124a21f0cc4971d6ae": "CNVD-2024-22977 金和C6协同管理平台文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519305&idx=1&sn=191abe19580685bafe70e3ddb0f2ec74": "【海外SRC实战】一个支付逻辑漏洞，怒赚 $9000 赏金",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320691&idx=3&sn=68ed4c2a830801d5a9cee49cec544119": "macOS远程视图服务沙箱逃逸漏洞PoC公开，攻击者可突破系统限制"
 }
