@@ -14028,5 +14028,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488468&idx=1&sn=0936bafacba6d0e8c19685261ec2c800": "Laravel Framework 8到11版本存在敏感信息泄露漏洞CVE-2024-29291 附POC",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490076&idx=1&sn=7657f918594505daaecaa1220c2914f0": "【漏洞预警】Apache IoTDB远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491071&idx=1&sn=44e17b4412591a6d368f8d643463d041": "Yakit + xray联动探测漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMjIzNTU2Mg==&mid=2247484298&idx=1&sn=7b44b97a32416ee337fcdc8d180dee74": "【水文】聚合漏洞情报平台（新增推送服务）"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMjIzNTU2Mg==&mid=2247484298&idx=1&sn=7b44b97a32416ee337fcdc8d180dee74": "【水文】聚合漏洞情报平台（新增推送服务）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Njc1MTIzMw==&mid=2247485851&idx=1&sn=1c82a0bf8e73ec70b37bb06bd27e8a2b": "欧盟漏洞数据库（EUVD）正式上线：技术架构、协同生态与行业影响深度解析",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523008&idx=3&sn=9a842c823e7d8913c5cc1c0f69a9cda4": "微软5月补丁星期二值得关注的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494605&idx=1&sn=f089ad9b91ff71fc033ef5fc95538d43": "工具推荐 | 最新开源若依Vue漏洞检测工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492778&idx=1&sn=05a8cc166439396e85322a00a6f68a2c": "严重的 Erlang∕OTP SSH RCE 漏洞现已公开，请立即修补"
 }
