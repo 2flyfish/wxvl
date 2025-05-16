@@ -14121,5 +14121,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069664&idx=3&sn=ce9e58eb83ca29b12fe8053876e1d3a4": "【安全圈】网络安全事件周报：勒索组织与国家级黑客同时盯上SAP漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664242670&idx=1&sn=ef65bd56ddce36543499892b52b62bc0": "聚焦 | 国家信息安全漏洞库（CNNVD）2024年度工作总结暨优秀表彰大会成功举办",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501079&idx=3&sn=c60869994f50fba08d87b4853de6d126": "【漏洞通告】FortiOS TACACS+身份认证绕过漏洞(CVE-2025-22252)",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484077&idx=1&sn=17a24bab60b34123c63194e6c89eb39f": "【已复现】Ivanti EPMM 认证绕过∕代码执行漏洞 (CVE-2025-4427∕CVE-2025-4428）"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484077&idx=1&sn=17a24bab60b34123c63194e6c89eb39f": "【已复现】Ivanti EPMM 认证绕过∕代码执行漏洞 (CVE-2025-4427∕CVE-2025-4428）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497600&idx=1&sn=1969c3c056630d43062c8ba9092c06da": "一次获取RCE以及提权到root权限的渗透过程",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY3OTc5Mw==&mid=2247485059&idx=1&sn=a390ae32a65fad7f877be099a0ef3929": "【免杀现】白加黑也不一定是exe+dll哟",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516636&idx=1&sn=b6f314f0ad1fc3ec3d30099af4ec510e": "Nacos Derby命令执行漏洞利用脚本（5月15日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247496246&idx=1&sn=13504d1d456d9883672e9ac62eef522c": "漏洞研究(8)：XXL-JOB调度中心后台日志查看SSRF漏洞 CVE-2022-43183",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485073&idx=1&sn=05bd26674ee6fec3d58cf76a4ffe52db": "腾讯云安全中心推出2025年4月必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523031&idx=1&sn=40bc8fad7dc229f984420d3f6109a0b9": "Chrome修复已遭活跃利用的0day",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247485064&idx=1&sn=d85845f1286127f8a6f52957bef948be": "900人选择的SRC漏洞挖掘课程，带你踏上漏洞挖掘之路，共同成长",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247485388&idx=1&sn=41c66e99136de139308d373fae0b8957": "Apache Roller高危漏洞CVE-2025-24859深度解析：会话劫持威胁企业安全",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788573&idx=1&sn=3cd1ca51bc4ac24f73596c96d8c28484": "黑客发起全球间谍行动，政府邮箱被利用XSS漏洞入侵"
 }
