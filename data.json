@@ -14087,5 +14087,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493142&idx=3&sn=47422e3c46960e1f7335a34d5196bbce": "漏洞预警 | 用友NC SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900548&idx=1&sn=7dba8690fd2f13580490f40d0871b5e4": "Fortinet零日RCE (CVE-2025-32756)深度解析：原理、TTPs及企业级纵深防御策略",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499677&idx=1&sn=b5f2f213d5a79e9f0428f8d073d5f374": "红队视角下的 .NET 安全审计，记一次 .NET 程序的漏洞发现之旅",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487402&idx=1&sn=483b638ac2cba6a68bcb8633c1375c09": "泥煤的，又一次RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487402&idx=1&sn=483b638ac2cba6a68bcb8633c1375c09": "泥煤的，又一次RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489105&idx=1&sn=4d26a119df5deef7a14e446b93678848": "安全资讯|英特尔CPU曝分支权限注入重大安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487402&idx=4&sn=f24574b4df91894d33c9a1aa51208570": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTc2MDE3OA==&mid=2247486659&idx=1&sn=0321d9126f471ded2828af33bd4fe6a2": "DeFiVulnLabs验证——利用Coze进行自动化复现和测试及坑点",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524590&idx=1&sn=975a2bbedabadddaa1a9b1328b6c8886": "Windows远程桌面网关漏洞可被攻击者利用触发拒绝服务条件",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494623&idx=1&sn=7e704834297972659a95a52b35a944e4": "工具推荐 | 临兵漏洞自动化扫描系统",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524590&idx=4&sn=6fe7ad2714f7e5f2f6ac54bcecda6ae8": "Node.js 高危漏洞警报（CVE-2025-23166）：可导致远程系统崩溃",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490339&idx=1&sn=011dccb887d48892ba1c826730b44ec9": "Webpack源码泄露漏洞批量探测",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487917&idx=1&sn=e50f82713e625ef841448aa09706327a": "紧急预警！新Chrome漏洞（CVE-2025-4664）致跨域数据泄露，请立即更新",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610772&idx=3&sn=7cdf87bd56ec29f6bc9408ebd458100d": "攻防实战之若依(RuoYi)框架漏洞战争手册",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493142&idx=1&sn=8417737fe3dd9c336408bfecd239c79c": "漏洞预警 | 用友U8Cloud XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499902&idx=1&sn=92ef5a9638f17d80e724ac3c867101a7": "PHPRCE-永恒之蓝-防火墙上线-密码喷射-DC域控提权-weblogic",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493849&idx=1&sn=cb6f29682b6c7c5721e10042cec1eea8": "Ivanti修复了两个在有限攻击中被利用的EPMM漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524590&idx=3&sn=5ce5215f6a03a6bbcbf2bc01760cd628": "利用Bitpixie漏洞（CVE-2023-21563）可在数分钟内绕过BitLocker加密——概念验证揭示高风险攻击路径",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037703&idx=1&sn=ee99198595f09647e07a388d40761561": "基于Drozer框架对安卓四大组件的漏洞挖掘总结",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651247987&idx=1&sn=29534ea825a239f625eb903a24f1ae7b": "发现网络攻击后立即关闭系统？错！| Bitpixie漏洞攻击路径曝光，5分钟即可绕过BitLocker加密"
 }
