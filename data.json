@@ -14177,5 +14177,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNDM4OTM3OQ==&mid=2247506066&idx=2&sn=e0cf069161dc63c1d309efabe7083b19": "2025年漏洞统计报告附下载",
     "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655279104&idx=1&sn=fc0d2ad017e5ed4cbcaa2258802dcc1f": "政府邮箱被利用XSS漏洞入侵；2024年微软披露漏洞增长11%",
     "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247496253&idx=1&sn=14e5b2e6452bb240a492d5caa2de3c96": "漏洞研究(9)：XXL-JOB调度中心后台任务执行SSRF漏洞 CVE-2024-24113",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491096&idx=3&sn=300469656724bbb606d05dedb933e58d": "重生HW之利用邮箱漏洞寻找突破口打穿目标内网"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491096&idx=3&sn=300469656724bbb606d05dedb933e58d": "重生HW之利用邮箱漏洞寻找突破口打穿目标内网",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499088&idx=1&sn=c4a90fdea61d8a9d2f7ef91d73d10f06": "poc | Windows 远程桌面网关 (RD Gateway) CVE-2025-21297介绍",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795139&idx=3&sn=b778c50dbe57ec7066741e4845436a97": "英特尔新漏洞：Spectre 和 Meltdown 问题以新面貌重现",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493151&idx=3&sn=10037ca1fbd8c7838d112015fa3f790a": "漏洞预警 | Tornado日志解析器拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485450&idx=1&sn=dd0751e325f02ecd7aada09b208840e7": "Src捡钱6，为什么大佬总能挖到你挖不到的漏洞（可自定义参数版jsonp、cors）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492334&idx=1&sn=c5ffc39a73e459eb12fe56edc031abd0": "一个漏洞挖掘小工具 - SeeMore",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492284&idx=1&sn=875e75a2f1e03dc7730882f221ffbe21": "漏洞预警 西部数据 NAS chk_vv_sharename.php 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487931&idx=1&sn=619675b41f1728c3b4c80174458886fc": "英特尔CPU再曝高危漏洞！新型内存泄漏与Spectre v2攻击卷土重来，全球数亿设备陷风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506397&idx=1&sn=58e38d3ae77e44376fa837ad9099a059": "入侵我的车，甚至你的车——大众汽车应用程序存在安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251875&idx=1&sn=9a043be40ff683ba496f06b8b7751a0d": "全球政府邮件系统沦陷：黑客利用XSS漏洞发起大规模间谍活动",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493151&idx=2&sn=6c55c91bfdbdbe5d7acda8f94b544575": "漏洞预警 | 金和OA XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=8&sn=ce5bf568df9fe4ae7bc231f3412e006e": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=1&sn=ba311501aea1738fee819c57be6d8fb8": "你来你也能RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512208&idx=1&sn=fb980855429312b7df8e91c68c4ae82a": "若依(RuoYi)框架漏洞战争手册",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=3&sn=b1a886e267100e64534156c33ef90cf8": "泥煤的，又一次RCE"
 }
