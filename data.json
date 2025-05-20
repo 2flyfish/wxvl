@@ -14265,5 +14265,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495058&idx=1&sn=9ba60513d1aedc46385f088671127de5": "2025攻防演练必修高危漏洞集合（1.0版）",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501089&idx=2&sn=1ebe4873b80d78327d69e54c096a745c": "【漏洞通告】glibc静态setuid程序dlopen代码执行漏洞 (CVE-2025-4802)",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458594279&idx=2&sn=bba65c83cfc13e29b1d3bcebbe562ed2": "Pwn2Own 2025柏林赛落幕！29个零日漏洞曝光，百万奖金花落谁家？",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069726&idx=4&sn=6e0326f5a7bbfaabc1fb97d20777862b": "【安全圈】CISA最近将Chrome漏洞标记为被积极利用"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069726&idx=4&sn=6e0326f5a7bbfaabc1fb97d20777862b": "【安全圈】CISA最近将Chrome漏洞标记为被积极利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497628&idx=1&sn=61a9e680026304bda5658427d781b52b": "RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490103&idx=1&sn=432278ec94ada797568108539241ac0b": "【AI漏洞预警】Infiniflow Ragflow账户接管漏洞CVE-2025-48187",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651135729&idx=1&sn=d51040d6c10c0666031d7f8dcaf25fb4": "行业实践｜电力行业数字化转型，应用风险漏洞谁来防？",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136902&idx=2&sn=5c62a5d8b7822d419bd155094dfa73a3": "大众汽车应用程序再曝安全漏洞，泄露车主敏感信息；410GB TeleMessage泄露数据被DDoSecrets收录 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069726&idx=2&sn=c20c0d51d02d13694b5fc4bca2f03dd4": "【安全圈】黑客在Pwn2Own柏林大赛中利用28个零日漏洞斩获107万美元奖金"
 }
