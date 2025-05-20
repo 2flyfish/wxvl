@@ -14270,5 +14270,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490103&idx=1&sn=432278ec94ada797568108539241ac0b": "【AI漏洞预警】Infiniflow Ragflow账户接管漏洞CVE-2025-48187",
     "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651135729&idx=1&sn=d51040d6c10c0666031d7f8dcaf25fb4": "行业实践｜电力行业数字化转型，应用风险漏洞谁来防？",
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136902&idx=2&sn=5c62a5d8b7822d419bd155094dfa73a3": "大众汽车应用程序再曝安全漏洞，泄露车主敏感信息；410GB TeleMessage泄露数据被DDoSecrets收录 | 牛览",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069726&idx=2&sn=c20c0d51d02d13694b5fc4bca2f03dd4": "【安全圈】黑客在Pwn2Own柏林大赛中利用28个零日漏洞斩获107万美元奖金"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069726&idx=2&sn=c20c0d51d02d13694b5fc4bca2f03dd4": "【安全圈】黑客在Pwn2Own柏林大赛中利用28个零日漏洞斩获107万美元奖金",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=3&sn=edae5292526e0e40d7c0ade7557df90e": "Apache IoTDB 需授权 代码注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=2&sn=e08d06704ad18be109b3687efc5c973a": "Ivanti Endpoint Manager Mobile 需授权 代码注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=4&sn=a35a1079fd3a884216dc28f8d3af5297": "Fortinet FortiOS 身份验证缺陷漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=8&sn=5608f451446d34b3c8f6f699ea83c692": "Nodejs Node.Js 异常处理不当漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501349&idx=1&sn=59bf10bba063b60bdb410a2b2227295e": "漏洞速递 | CVE-2025-29927漏洞（附EXP）",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=5&sn=7162f099562c67bb40635cb4eb23f583": "SysAid SysAid On-Prem 未授权 XML外部实体注入(XXE)漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=1&sn=e436f090f20203dae2788470d2e830f7": "Gnu Glibc 逻辑缺陷漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=6&sn=ff90534f91198265ab19c5d635974345": "SysAid SysAid On-Prem 未授权 XML外部实体注入(XXE)漏洞"
 }
