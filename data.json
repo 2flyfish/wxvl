@@ -14256,5 +14256,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610809&idx=2&sn=186c2134c645104b6d44da9bb54bd25e": "文末赠书|当漏洞成为“数字战争”的弹药，谁能改写攻防规则？",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499864&idx=1&sn=0ac97ac6631f4bed37dc9d65de527d8d": "CNVD漏洞周报2025年第18期",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499696&idx=1&sn=fe88643789efacfd6935788441f31d33": "XBAP 绕过终端防护，通过 Sharp4XbapShell 实现 PowerShell 命令执行",
-    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582421&idx=2&sn=4d652cfed9e7b0c3f05bb935d717f71f": "安全动态回顾|65款违法违规收集使用个人信息的移动应用被通报 微软5月补丁星期二修复72个漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582421&idx=2&sn=4d652cfed9e7b0c3f05bb935d717f71f": "安全动态回顾|65款违法违规收集使用个人信息的移动应用被通报 微软5月补丁星期二修复72个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487438&idx=1&sn=ef49a682ff862cf1972a2c7917274ba1": "Ghost Route 检测 Next JS 中间件绕过漏洞 (CVE-2025-29927) 的攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489854&idx=1&sn=1e0a63504777786c01f77ea4604a9551": "Mongoose 搜索注入漏洞复现与修复",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514384&idx=2&sn=fcfc80f16f102b6fec2c364408384b51": "Pwn2Own 2025柏林黑客大赛：发现28个0day 斩获百万美元奖金",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321374&idx=3&sn=6a3bba25915e6ce2b498ef03970fc4e8": "ChatGPT漏洞允许攻击者在共享对话中嵌入恶意SVG与图像文件",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321374&idx=1&sn=e9577cbfc42d88f3379443abc9ae10f7": "HackProve国际漏洞狂飙赛来袭！奖金翻倍、积分冲榜，全球开启！",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495058&idx=1&sn=9ba60513d1aedc46385f088671127de5": "2025攻防演练必修高危漏洞集合（1.0版）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501089&idx=2&sn=1ebe4873b80d78327d69e54c096a745c": "【漏洞通告】glibc静态setuid程序dlopen代码执行漏洞 (CVE-2025-4802)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458594279&idx=2&sn=bba65c83cfc13e29b1d3bcebbe562ed2": "Pwn2Own 2025柏林赛落幕！29个零日漏洞曝光，百万奖金花落谁家？",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069726&idx=4&sn=6e0326f5a7bbfaabc1fb97d20777862b": "【安全圈】CISA最近将Chrome漏洞标记为被积极利用"
 }
